@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/RedbrickCobra66/RedbrickCobra66/main/bg.gif" width="1500px">
+<img src="https://raw.githubusercontent.com/RedbrickCobra66/RedbrickCobra66/main/bg.gif" width="1000px">
 
 # 👋 &nbsp;Hi there
 
