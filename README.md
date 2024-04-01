@@ -1,8 +1,8 @@
-![What's good, I'm Redbrick. I'm a HTML,Python,& Lua Coder. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+![Header](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/header.png "Header")
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Sudo_Overflow](https://twitter.com/sudo_overflow). Feel free to tweet me any time. You can also check out my website [Cyris.io](https://Cyris.io) for my blog and more.
+I've been coding for a few years now. Mostly exploits or my own self projects. If you wanna chat with me you can here (
 
 &nbsp;
 
