@@ -1,8 +1,8 @@
-![Header](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/header.png "Header")
+![Header](https://raw.githubusercontent.com/RedbrickCobra66/RedbrickCobra66/main/bg.gif "Header")
 
 # 👋 &nbsp;Hi there
 
-I've been coding for a few years now. Mostly exploits or my own self projects. If you wanna chat with me you can here (
+I've been coding for a few years now. Mostly exploits or my own self projects. If you wanna chat with me you can here
 
 &nbsp;
 
