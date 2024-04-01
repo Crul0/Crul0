@@ -1,4 +1,4 @@
-<!-- logo:start --><img alt="gif" src="https://raw.githubusercontent.com/RedbrickCobra66/RedbrickCobra66/main/bg.gif" align="center" width="50%"><!-- logo:end -->
+<!-- logo:start --><img alt="gif" src="https://raw.githubusercontent.com/RedbrickCobra66/RedbrickCobra66/main/bg.gif" align="center" width="80%"><!-- logo:end -->
 
 # 👋 &nbsp;Hi there
 
