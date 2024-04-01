@@ -1,6 +1,6 @@
 <!-- logo:start --><img alt="gif" src="https://raw.githubusercontent.com/RedbrickCobra66/RedbrickCobra66/main/bg.gif" align="center" width="60%"><!-- logo:end -->
 
-# 👋 &nbsp;Hi there
+# 👋 &nbsp;What's good
 
 I've been coding for a few years now. Mostly exploits or my own self projects. If you wanna chat with me you can here
 
