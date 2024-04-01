@@ -1,6 +1,4 @@
-![Header](<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> "Header")
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://raw.githubusercontent.com/RedbrickCobra66/RedbrickCobra66/main/bg.gif" width="30px">
 
 # 👋 &nbsp;Hi there
 
