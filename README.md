@@ -1,16 +1,22 @@
-### Hi there 👋
+![What's good, I'm Redbrick. I'm a HTML,Python,& Lua Coder. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
-<!--
-**RedbrickCobra66/RedbrickCobra66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 &nbsp;Hi there
 
-Here are some ideas to get you started:
+I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Sudo_Overflow](https://twitter.com/sudo_overflow). Feel free to tweet me any time. You can also check out my website [Cyris.io](https://Cyris.io) for my blog and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+
+## 👇 &nbsp;Current project
+
+None -_-
+
+&nbsp;
+
+
+## 📊 &nbsp;Stats
+
+![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=RedbrickCobra66&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RedbrickCobra66&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+<a rel="me" href="https://mastodon.nz/@Sudo_Overflow">Follow me on Mastodon</a>
