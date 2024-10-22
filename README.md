@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://cdn.discordapp.com/avatars/336595281988812801/616d5774009b4ca73563003f87b01ee9.webp](https://avatars.githubusercontent.com/u/88393172?v=4)"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/88393172?v=4"  />
 
 ###
 <p align="left">✰ Known Languages: HTML, CSS, JAVASCRIPT, LUA, & PYTHON ✰</p>
