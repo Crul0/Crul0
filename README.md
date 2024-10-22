@@ -5,11 +5,11 @@
 <img align="right" height="150" src="https://cdn.discordapp.com/avatars/336595281988812801/616d5774009b4ca73563003f87b01ee9.webp"  />
 
 ###
+<p align="left">✰ Known Languages: HTML, CSS, JAVASCRIPT, LUA, & PYTHON ✰</p>
+<p align="left">✰ Known Programs: BLENDER, GIMP,  PHOTOSHOP,  AFTER EFFECT ✰</p>
+
 
 <p align="left">I've been coding for a few years now. Mostly my own self projects.<br>I don't post what I work on most the time because many people just like to steal code and skid it!<br><br>https://e-z.bio/crul</p>
-
-<p align="left">✰ Known Languages: HTML, CSS, JAVASCRIPT, LUA, & PYTHON ✰
-✰ Known Programs: BLENDER, GIMP,  PHOTOSHOP,  AFTER EFFECT ✰</p>
 
 ###
 
