@@ -3,7 +3,7 @@
 ###
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/88393172?v=4"  />
 
-<p align="left">I've been coding for a few years now. Mostly my own self projects.<br>I don't post what I work on most the time because many people just like to steal code and skid it!<br><br>https://e-z.bio/crul</p>
+<p align="left">I've been coding for a few years now. Mostly my own self projects.<br>I don't post what I work on most the time because many people just like to steal code and skid it!<br><br>https://e-z.bio/Redbrickcobra</p>
 
 ###
 
